@@ -6,7 +6,7 @@ I am currently expanding into machine learning and data-driven modeling through 
 Selected Work:
 
 - [BOCS](https://github.com/Maria-Lesniewski/BOCS) — Coarse-grained force-field construction and molecular modeling software, I was lead  on the v5 release during my PhD with the [noid-group](https://github.com/noid-group).
-- [LAMMPS (PKG-BOCS)](https://github.com/lammps/lammps/pull/4737) — LAMMPS is molecular dynamics software ecosystem managed by the [lammps](https://github.com/lammps/lammps) organization, I contributed the BOCS package for simulating many body potentials.
+- [LAMMPS (PKG-BOCS) - PR 4737](https://github.com/lammps/lammps/pull/4737) — LAMMPS is molecular dynamics software ecosystem managed by the [lammps](https://github.com/lammps/lammps) organization, I contributed the BOCS package for simulating many body potentials.
 <!-- [CircleForge] — An independent PyTorch project exploring neural architectures through synthetic image generation and classification.
 Elsewhere
 
