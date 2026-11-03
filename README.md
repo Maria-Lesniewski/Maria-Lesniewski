@@ -7,7 +7,7 @@ Selected Work:
 
 - [BOCS](https://github.com/Maria-Lesniewski/BOCS) — Coarse-grained force-field construction and molecular modeling software, I was lead  on the v5 release during my PhD with the [noid-group](https://github.com/noid-group).
 - [LAMMPS (PKG-BOCS) - PR 4737](https://github.com/lammps/lammps/pull/4737) — LAMMPS is molecular dynamics software ecosystem managed by the [lammps](https://github.com/lammps/lammps) organization, I contributed the BOCS package for simulating many body potentials.
-- [CircleForge](https://github.com/Maria-Lesniewski/CircleForge/tree/experimentation) — An actively developed configurable scientific machine-learning framework for building, training, and evaluating regression neural networks on a custom synthetic dataset with controllable synthesis conditions.
+- [CircleForge](https://github.com/Maria-Lesniewski/CircleForge/) — An actively developed configurable scientific machine-learning framework for building, training, and evaluating regression neural networks on a custom synthetic dataset with controllable synthesis conditions.
 
 <!--
 🌐 Website · [LinkedIn] · [Google Scholar]
